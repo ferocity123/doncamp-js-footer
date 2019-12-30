@@ -1,0 +1,25 @@
+{
+  "name": "doncamp-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows the dynamic footer to be generated for JS with an updated years and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferocity123/doncamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Don Sabater <wassapdon2000@yahoo.com> (npmjs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferocity123/doncamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/ferocity123/doncamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
